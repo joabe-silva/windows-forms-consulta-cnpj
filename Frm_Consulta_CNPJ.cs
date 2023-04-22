@@ -25,13 +25,26 @@ namespace Hello_World
 
             if (vCNPJ != "")
             {
-                MessageBox.Show(
+                if (vCNPJ.Length == 14)
+                {
+                    MessageBox.Show(
                     Cls_Uteis.ConsultaCNPJ(Mask_CNPJ.Text),
                     "",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Information
-               );
-               Mask_CNPJ.Text = "";
+                   );
+                   Mask_CNPJ.Text = "";
+                }
+                else
+                {
+                    MessageBox.Show(
+                    "Inclua todos os digitos do CNPJ.",
+                    "Aviso",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error
+                    );
+                    Mask_CNPJ.Focus();
+                }
             }
             else
             {
