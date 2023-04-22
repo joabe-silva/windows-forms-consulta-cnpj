@@ -72,9 +72,10 @@ namespace Hello_World
             }
         }
 
-        private void Frm_Consulta_CNPJ_Load(object sender, EventArgs e)
+        private void Menu_Item_Cadastro_CNPJ_Click(object sender, EventArgs e)
         {
-
+            Consulta_CNPJ.Frm_Cadastro_CNPJ j = new Consulta_CNPJ.Frm_Cadastro_CNPJ();
+            j.ShowDialog();
         }
     }
 }

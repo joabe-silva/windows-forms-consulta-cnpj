@@ -16,3 +16,4 @@ C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta CNPJ.d
 C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\ref\Consulta CNPJ.dll
 C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta CNPJ.pdb
 C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta CNPJ.genruntimeconfig.cache
+C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta_CNPJ.Frm_Cadastro_CNPJ.resources
