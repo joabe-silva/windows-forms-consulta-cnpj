@@ -1,0 +1,18 @@
+C:\Projetos\windows-forms-consulta-cnpj\bin\Debug\net5.0-windows\Consulta CNPJ.exe
+C:\Projetos\windows-forms-consulta-cnpj\bin\Debug\net5.0-windows\Consulta CNPJ.deps.json
+C:\Projetos\windows-forms-consulta-cnpj\bin\Debug\net5.0-windows\Consulta CNPJ.runtimeconfig.json
+C:\Projetos\windows-forms-consulta-cnpj\bin\Debug\net5.0-windows\Consulta CNPJ.runtimeconfig.dev.json
+C:\Projetos\windows-forms-consulta-cnpj\bin\Debug\net5.0-windows\Consulta CNPJ.dll
+C:\Projetos\windows-forms-consulta-cnpj\bin\Debug\net5.0-windows\ref\Consulta CNPJ.dll
+C:\Projetos\windows-forms-consulta-cnpj\bin\Debug\net5.0-windows\Consulta CNPJ.pdb
+C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta CNPJ.csproj.AssemblyReference.cache
+C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Hello_World.Frm_Consulta_CNPJ.resources
+C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta CNPJ.csproj.GenerateResource.cache
+C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta CNPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta CNPJ.AssemblyInfoInputs.cache
+C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta CNPJ.AssemblyInfo.cs
+C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta CNPJ.csproj.CoreCompileInputs.cache
+C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta CNPJ.dll
+C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\ref\Consulta CNPJ.dll
+C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta CNPJ.pdb
+C:\Projetos\windows-forms-consulta-cnpj\obj\Debug\net5.0-windows\Consulta CNPJ.genruntimeconfig.cache
