@@ -1,0 +1,17 @@
+C:\Projetos\windows-forms-consulta-cnpj\bin\Release\netcoreapp3.1\Consulta CNPJ.exe
+C:\Projetos\windows-forms-consulta-cnpj\bin\Release\netcoreapp3.1\Consulta CNPJ.deps.json
+C:\Projetos\windows-forms-consulta-cnpj\bin\Release\netcoreapp3.1\Consulta CNPJ.runtimeconfig.json
+C:\Projetos\windows-forms-consulta-cnpj\bin\Release\netcoreapp3.1\Consulta CNPJ.runtimeconfig.dev.json
+C:\Projetos\windows-forms-consulta-cnpj\bin\Release\netcoreapp3.1\Consulta CNPJ.dll
+C:\Projetos\windows-forms-consulta-cnpj\bin\Release\netcoreapp3.1\Consulta CNPJ.pdb
+C:\Projetos\windows-forms-consulta-cnpj\obj\Release\netcoreapp3.1\Consulta_CNPJ.Frm_Cadastro_CNPJ.resources
+C:\Projetos\windows-forms-consulta-cnpj\obj\Release\netcoreapp3.1\Hello_World.Frm_Consulta_CNPJ.resources
+C:\Projetos\windows-forms-consulta-cnpj\obj\Release\netcoreapp3.1\Consulta CNPJ.csproj.GenerateResource.cache
+C:\Projetos\windows-forms-consulta-cnpj\obj\Release\netcoreapp3.1\Consulta CNPJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\windows-forms-consulta-cnpj\obj\Release\netcoreapp3.1\Consulta CNPJ.AssemblyInfoInputs.cache
+C:\Projetos\windows-forms-consulta-cnpj\obj\Release\netcoreapp3.1\Consulta CNPJ.AssemblyInfo.cs
+C:\Projetos\windows-forms-consulta-cnpj\obj\Release\netcoreapp3.1\Consulta CNPJ.csproj.CoreCompileInputs.cache
+C:\Projetos\windows-forms-consulta-cnpj\obj\Release\netcoreapp3.1\Consulta CNPJ.dll
+C:\Projetos\windows-forms-consulta-cnpj\obj\Release\netcoreapp3.1\Consulta CNPJ.pdb
+C:\Projetos\windows-forms-consulta-cnpj\obj\Release\netcoreapp3.1\Consulta CNPJ.genruntimeconfig.cache
+C:\Projetos\windows-forms-consulta-cnpj\obj\Release\netcoreapp3.1\Consulta CNPJ.csproj.AssemblyReference.cache

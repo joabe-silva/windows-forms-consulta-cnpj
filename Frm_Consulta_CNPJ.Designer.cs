@@ -29,6 +29,7 @@ namespace Hello_World
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Frm_Consulta_CNPJ));
             this.Mask_CNPJ = new System.Windows.Forms.MaskedTextBox();
             this.Btn_Consultar = new System.Windows.Forms.Button();
             this.Btn_Limpar = new System.Windows.Forms.Button();
@@ -87,7 +88,7 @@ namespace Hello_World
             // Menu_Item_Cadastro_CNPJ
             // 
             this.Menu_Item_Cadastro_CNPJ.Name = "Menu_Item_Cadastro_CNPJ";
-            this.Menu_Item_Cadastro_CNPJ.Size = new System.Drawing.Size(180, 22);
+            this.Menu_Item_Cadastro_CNPJ.Size = new System.Drawing.Size(101, 22);
             this.Menu_Item_Cadastro_CNPJ.Text = "CNPJ";
             this.Menu_Item_Cadastro_CNPJ.Click += new System.EventHandler(this.Menu_Item_Cadastro_CNPJ_Click);
             // 
@@ -100,6 +101,7 @@ namespace Hello_World
             this.Controls.Add(this.Btn_Consultar);
             this.Controls.Add(this.Mask_CNPJ);
             this.Controls.Add(this.Menu);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.Menu;
             this.Name = "Frm_Consulta_CNPJ";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
